@@ -1,0 +1,13 @@
+.list-item{
+    list-style: none;
+    background-color: rgba(82, 137, 219, 0.897);
+    padding: 15px;
+    color: white;
+}
+
+
+.list-item:hover{
+    position: relative;
+    bottom:4px;
+    
+  }
